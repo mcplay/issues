@@ -1,3 +1,7 @@
+Move -> https://kanboard.viasnake.com/
+
+<hr>
+
 # MCPlayNetwork
 Minecraft Java Editionのマルチプレイヤーサーバーです。
 
